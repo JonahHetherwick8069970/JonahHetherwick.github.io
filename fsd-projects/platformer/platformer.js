@@ -27,12 +27,16 @@ $(function () {
     //////////////////////////////////
 
     // TODO 1 - Enable the Grid
-    // toggleGrid();
+     toggleGrid();
 
 
     // TODO 2 - Create Platforms
-
-
+createPlatform(450,11,443, 16 )
+createPlatform(356,16,267, 19 )
+createPlatform(667,16,225, 17 )
+createPlatform(254,16,457, 14 )
+createPlatform(554,12,300, 13 )
+createPlatform(653,10,340, 11 )
 
 
     // TODO 3 - Create Collectables
